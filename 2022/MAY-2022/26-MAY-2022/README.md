@@ -7,3 +7,5 @@
 3 - Keypad Sequence --> https://practice.geeksforgeeks.org/problems/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence0547/1#
 
 4 - Permutations in array --> https://practice.geeksforgeeks.org/problems/permutations-in-array1747/1/#
+
+5 - Counting Sort --> https://practice.geeksforgeeks.org/problems/counting-sort/0/?problemType=functional&difficulty#
