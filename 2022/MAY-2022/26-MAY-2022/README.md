@@ -5,3 +5,5 @@
 2 - Repeated Character --> https://practice.geeksforgeeks.org/problems/repeated-character2058/1#
 
 3 - Keypad Sequence --> https://practice.geeksforgeeks.org/problems/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence0547/1#
+
+4 - Permutations in array --> https://practice.geeksforgeeks.org/problems/permutations-in-array1747/1/#
