@@ -9,3 +9,5 @@
 4 - Permutations in array --> https://practice.geeksforgeeks.org/problems/permutations-in-array1747/1/#
 
 5 - Counting Sort --> https://practice.geeksforgeeks.org/problems/counting-sort/0/?problemType=functional&difficulty#
+
+6 - Common elements --> https://practice.geeksforgeeks.org/problems/common-elements1132/1#   ✔️ 🥇
