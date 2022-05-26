@@ -3,3 +3,5 @@
 1 - Longest Common Prefix in an Array --> https://practice.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1#
 
 2 - Repeated Character --> https://practice.geeksforgeeks.org/problems/repeated-character2058/1#
+
+3 - Keypad Sequence --> https://practice.geeksforgeeks.org/problems/convert-a-sentence-into-its-equivalent-mobile-numeric-keypad-sequence0547/1#
