@@ -6,3 +6,5 @@
 
 3 - First Bad Version --> https://leetcode.com/problems/first-bad-version/
 
+4 - Arranging Coins --> https://leetcode.com/problems/arranging-coins/
+
