@@ -4,3 +4,5 @@
 
 2 - Intersection of Two Arrays --> https://leetcode.com/problems/intersection-of-two-arrays/
 
+3 - First Bad Version --> https://leetcode.com/problems/first-bad-version/
+
