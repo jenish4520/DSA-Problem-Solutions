@@ -8,3 +8,5 @@
 
 4 - Arranging Coins --> https://leetcode.com/problems/arranging-coins/
 
+5 - Search Insert Position --> https://leetcode.com/problems/search-insert-position/
+
