@@ -10,3 +10,5 @@
 
 5 - Search Insert Position --> https://leetcode.com/problems/search-insert-position/
 
+6 - Different Divisors --> https://codeforces.com/problemset/problem/1474/B
+
