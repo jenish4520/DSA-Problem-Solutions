@@ -10,5 +10,8 @@
 
 5 - Convention --> http://www.usaco.org/index.php?page=viewproblem2&cpid=858#
 
-6 -  -->
+6 - Cellular Network --> https://codeforces.com/contest/702/problem/C
 
+7 - Find the Smallest Divisor Given a Threshold --> https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
+
+6 - Cellular Network --> https://codeforces.com/contest/702/problem/C
