@@ -1,0 +1,1022 @@
+
+
+Project Euler #254: Sums of Digit Factorials
+MediumMax Score: 100Success Rate: 0.21%
+Solve Challenge
+
+Project Euler #253: Tidying up
+MediumMax Score: 100Success Rate: 3.28%
+Solve Challenge
+
+Project Euler #252: Convex Holes
+HardMax Score: 100Success Rate: 3.70%
+Solve Challenge
+
+Interview Questions from Arcesium
+Preparing for Interviews? Check out Arcesium's official Interview Preparation page
+
+
+Project Euler #251: Cardano Triplets
+ExpertMax Score: 100Success Rate: 1.26%
+Solve Challenge
+
+Project Euler #250: 250250
+HardMax Score: 100Success Rate: 1.19%
+Solve Challenge
+
+Project Euler #249: Prime Subset Sums
+MediumMax Score: 100Success Rate: 3.33%
+Solve Challenge
+
+Project Euler #248: Numbers for which Euler’s totient function equals 13!
+MediumMax Score: 100Success Rate: 8.15%
+Solve Challenge
+
+Project Euler #247: Squares under a hyperbola
+MediumMax Score: 100Success Rate: 6.67%
+Solve Challenge
+
+Project Euler #246: Tangents to an ellipse
+MediumMax Score: 100Success Rate: 15.49%
+Solve Challenge
+
+Project Euler #245: Coresilience
+HardMax Score: 100Success Rate: 1.56%
+Solve Challenge
+
+Project Euler #244: Sliders
+EasyMax Score: 100Success Rate: 19.62%
+Solve Challenge
+
+Project Euler #243: Resilience
+MediumMax Score: 100Success Rate: 9.45%
+Solve Challenge
+
+Project Euler #242: Odd Triplets
+ExpertMax Score: 100Success Rate: 2.82%
+Solve Challenge
+
+Project Euler #241: Perfection Quotients
+MediumMax Score: 100Success Rate: 2.77%
+Solve Challenge
+
+Project Euler #240: Top Dice
+MediumMax Score: 100Success Rate: 4.46%
+Solve Challenge
+
+Project Euler #239: Twenty-two Foolish Primes
+MediumMax Score: 100Success Rate: 15.13%
+Solve Challenge
+
+Project Euler #238: Infinite string tour
+ExpertMax Score: 100Success Rate: 10.23%
+Solve Challenge
+
+Project Euler #237: Tours on a 4 x n playing board
+HardMax Score: 100Success Rate: 3.63%
+Solve Challenge
+
+Project Euler #236: Luxury Hampers
+EasyMax Score: 100Success Rate: 10.28%
+Solve Challenge
+
+Project Euler #235: An Arithmetic Geometric sequence
+EasyMax Score: 100Success Rate: 12.06%
+Solve Challenge
+
+Project Euler #234: Semidivisible numbers
+MediumMax Score: 100Success Rate: 3.38%
+Solve Challenge
+
+Project Euler #233: Lattice points on a circle
+ExpertMax Score: 100Success Rate: 6.73%
+Solve Challenge
+
+Project Euler #232: The Race
+EasyMax Score: 100Success Rate: 6.58%
+Solve Challenge
+
+Project Euler #231: The prime factorisation of binomial coefficients
+HardMax Score: 100Success Rate: 6.08%
+Solve Challenge
+
+Project Euler #230: Fibonacci Words
+EasyMax Score: 100Success Rate: 40.01%
+Solve Challenge
+
+Project Euler #229: Four Representations using Squares
+HardMax Score: 100Success Rate: 11.41%
+Solve Challenge
+
+Project Euler #228: Minkowski Sums
+HardMax Score: 100Success Rate: 2.28%
+Solve Challenge
+
+Project Euler #227: The Chase
+MediumMax Score: 100Success Rate: 19.78%
+Solve Challenge
+
+Project Euler #226: A Scoop of Blancmange
+ExpertMax Score: 100Success Rate: 10.00%
+Solve Challenge
+
+Project Euler #225: Tribonacci non-divisors
+MediumMax Score: 100Success Rate: 17.52%
+Solve Challenge
+
+Project Euler #224: Almost right-angled triangles II
+MediumMax Score: 100Success Rate: 1.24%
+Solve Challenge
+
+Project Euler #223: Almost right-angled triangles I
+MediumMax Score: 100Success Rate: 2.29%
+Solve Challenge
+
+Project Euler #222: Sphere Packing
+EasyMax Score: 100Success Rate: 12.93%
+Solve Challenge
+
+Project Euler #221: Alexandrian Integers
+HardMax Score: 100Success Rate: 6.51%
+Solve Challenge
+
+Project Euler #220: Heighway Dragon
+HardMax Score: 100Success Rate: 12.88%
+Solve Challenge
+
+Project Euler #219: Skew-cost coding
+MediumMax Score: 100Success Rate: 24.71%
+Solve Challenge
+
+Project Euler #218: Perfect right-angled triangles
+EasyMax Score: 100Success Rate: 50.87%
+Solve Challenge
+
+Project Euler #217: Balanced Numbers
+HardMax Score: 100Success Rate: 2.45%
+Solve Challenge
+
+Project Euler #216: Investigating the primality of numbers of the form 2n² - 1
+HardMax Score: 100Success Rate: 2.18%
+Solve Challenge
+
+Project Euler #215: Crack-free Walls
+HardMax Score: 100Success Rate: 8.92%
+Solve Challenge
+
+Project Euler #214: Totient Chains
+HardMax Score: 100Success Rate: 12.50%
+Solve Challenge
+
+Project Euler #213: Flea Circus
+MediumMax Score: 100Success Rate: 19.23%
+Solve Challenge
+
+Project Euler #212: Combined Volume of Cuboids
+ExpertMax Score: 100Success Rate: 15.49%
+Solve Challenge
+
+Project Euler #211: Divisor Square Sum
+HardMax Score: 100Success Rate: 20.32%
+Solve Challenge
+
+Project Euler #210: Obtuse Angled Triangles
+MediumMax Score: 100Success Rate: 12.43%
+Solve Challenge
+
+Project Euler #209: Circular Logic
+HardMax Score: 100Success Rate: 23.33%
+Solve Challenge
+
+Project Euler #208: Robot Walks
+ExpertMax Score: 100Success Rate: 4.29%
+Solve Challenge
+
+Project Euler #207: Integer partition equations
+EasyMax Score: 100Success Rate: 10.86%
+Solve Challenge
+
+Project Euler #206: Concealed Square
+EasyMax Score: 100Success Rate: 1.73%
+Solve Challenge
+
+Project Euler #205: Dice Game
+HardMax Score: 100Success Rate: 9.45%
+Solve Challenge
+
+Project Euler #204: Generalised Hamming Numbers
+MediumMax Score: 100Success Rate: 6.80%
+Solve Challenge
+
+Project Euler #203: Squarefree Binomial Coefficients
+MediumMax Score: 100Success Rate: 9.79%
+Solve Challenge
+
+Project Euler #202: Laserbeam
+HardMax Score: 100Success Rate: 15.73%
+Solve Challenge
+
+Project Euler #201: Subsets with a unique sum
+EasyMax Score: 100Success Rate: 15.77%
+Solve Challenge
+
+Project Euler #200: Find the 200th prime-proof sqube containing the contiguous sub-string "200"
+MediumMax Score: 100Success Rate: 66.12%
+Solve Challenge
+
+Project Euler #199: Iterative Circle Packing
+EasyMax Score: 100Success Rate: 32.23%
+Solve Challenge
+
+Project Euler #198: Ambiguous Numbers
+ExpertMax Score: 100Success Rate: 13.21%
+Solve Challenge
+
+Project Euler #197: Investigating the behaviour of a recursively defined sequence
+EasyMax Score: 100Success Rate: 59.39%
+Solve Challenge
+
+Project Euler #196: Prime triplets
+MediumMax Score: 100Success Rate: 9.24%
+Solve Challenge
+
+Project Euler #195: Inscribed circles of triangles with one angle of 60 degrees
+HardMax Score: 100Success Rate: 28.13%
+Solve Challenge
+
+Project Euler #194: Coloured Configurations
+ExpertMax Score: 100Success Rate: 12.50%
+Solve Challenge
+
+Project Euler #193: Squarefree Numbers
+MediumMax Score: 100Success Rate: 3.05%
+Solve Challenge
+
+Project Euler #192: Best Approximations
+HardMax Score: 100Success Rate: 18.18%
+Solve Challenge
+
+Project Euler #191: Prize Strings
+EasyMax Score: 100Success Rate: 8.96%
+Solve Challenge
+
+Project Euler #190: Maximising a weighted product
+HardMax Score: 100Success Rate: 28.07%
+Solve Challenge
+
+Project Euler #189: Tri-colouring a triangular grid
+EasyMax Score: 100Success Rate: 5.37%
+Solve Challenge
+
+Project Euler #188: The hyperexponentiation of a number
+ExpertMax Score: 100Success Rate: 6.93%
+Solve Challenge
+
+Project Euler #187: Semiprimes
+MediumMax Score: 100Success Rate: 25.89%
+Solve Challenge
+
+Project Euler #186: Connectedness of a network.
+EasyMax Score: 100Success Rate: 78.36%
+Solve Challenge
+
+Project Euler #185: Number Mind
+MediumMax Score: 100Success Rate: 62.17%
+Solve Challenge
+
+Project Euler #184: Triangles containing the origin.
+HardMax Score: 100Success Rate: 23.19%
+Solve Challenge
+
+Project Euler #183: Maximum product of parts
+EasyMax Score: 100Success Rate: 38.01%
+Solve Challenge
+
+Project Euler #182: RSA encryption
+ExpertMax Score: 100Success Rate: 10.48%
+Solve Challenge
+
+Project Euler #181: Investigating in how many ways objects of two different colours can be grouped.
+EasyMax Score: 100Success Rate: 7.29%
+Solve Challenge
+
+Project Euler #180: Rational zeros of a function of three variables.
+MediumMax Score: 100Success Rate: 48.05%
+Solve Challenge
+
+Project Euler #179: Consecutive positive divisors
+EasyMax Score: 100Success Rate: 12.87%
+Solve Challenge
+
+Project Euler #178: Step Numbers
+MediumMax Score: 100Success Rate: 9.38%
+Solve Challenge
+
+Project Euler #177: Integer angled Quadrilaterals.
+HardMax Score: 100Success Rate: 31.43%
+Solve Challenge
+
+Project Euler #176: Rectangular triangles that share a cathetus.
+MediumMax Score: 100Success Rate: 10.92%
+Solve Challenge
+
+Project Euler #175: Fractions involving the number of different ways a number can be expressed as a sum of powers of 2.
+MediumMax Score: 100Success Rate: 28.72%
+Solve Challenge
+
+Project Euler #174: Counting the number of "hollow" square laminae that can form one, two, three, ... distinct arrangements.
+EasyMax Score: 100Success Rate: 26.55%
+Solve Challenge
+
+Project Euler #173: Using up to one million tiles how many different "hollow" square laminae can be formed?
+MediumMax Score: 100Success Rate: 52.09%
+Solve Challenge
+
+Project Euler #172: Investigating numbers with few repeated digits
+ExpertMax Score: 100Success Rate: 4.31%
+Solve Challenge
+
+Project Euler #171: Finding numbers for which the sum of the squares of the digits is a square
+MediumMax Score: 100Success Rate: 2.92%
+Solve Challenge
+
+Project Euler #170: Find the largest 0 to 9 pandigital that can be formed by concatenating products.
+EasyMax Score: 100Success Rate: 19.83%
+Solve Challenge
+
+Project Euler #169: Exploring the number of different ways a number can be expressed as a sum of powers of 2.
+EasyMax Score: 100Success Rate: 38.54%
+Solve Challenge
+
+Project Euler #168: Number Rotations
+EasyMax Score: 100Success Rate: 37.80%
+Solve Challenge
+
+Project Euler #167: Investigating Ulam sequences
+EasyMax Score: 100Success Rate: 18.23%
+Solve Challenge
+
+Project Euler #166: Criss Cross
+EasyMax Score: 100Success Rate: 61.81%
+Solve Challenge
+
+Project Euler #165: Intersections
+EasyMax Score: 100Success Rate: 63.95%
+Solve Challenge
+
+Project Euler #164: Numbers for which no three consecutive digits have a sum greater than a given value.
+EasyMax Score: 100Success Rate: 24.74%
+Solve Challenge
+
+Project Euler #163: Cross-hatched triangles
+EasyMax Score: 100Success Rate: 51.44%
+Solve Challenge
+
+Project Euler #162: Hexadecimal numbers
+MediumMax Score: 100Success Rate: 36.08%
+Solve Challenge
+
+Project Euler #161: Triominoes
+HardMax Score: 100Success Rate: 50.41%
+Solve Challenge
+
+Project Euler #160: Factorial trailing digits
+AdvancedMax Score: 100Success Rate: 5.87%
+Solve Challenge
+
+Project Euler #159: Digital root sums of factorisations.
+MediumMax Score: 100Success Rate: 72.21%
+Solve Challenge
+
+Project Euler #158: Exploring strings
+MediumMax Score: 100Success Rate: 35.90%
+Solve Challenge
+
+Project Euler #157: Solving the diophantine equation 1/a +1/b = p/10^n
+HardMax Score: 100Success Rate: 38.89%
+Solve Challenge
+
+Project Euler #156: Counting Digits
+MediumMax Score: 100Success Rate: 71.66%
+Solve Challenge
+
+Project Euler #155: Counting Capacitor Circuits.
+EasyMax Score: 100Success Rate: 11.54%
+Solve Challenge
+
+Project Euler #154: Exploring Pascal's pyramid.
+HardMax Score: 100Success Rate: 17.61%
+Solve Challenge
+
+Project Euler #153: Investigating Gaussian Integers
+HardMax Score: 100Success Rate: 20.43%
+Solve Challenge
+
+Project Euler #152: Writing 1/2 as a sum of inverse squares
+AdvancedMax Score: 100Success Rate: 15.89%
+Solve Challenge
+
+Project Euler #151: Paper sheets of standard sizes: an expected-value problem.
+MediumMax Score: 100Success Rate: 40.24%
+Solve Challenge
+
+Project Euler #150: Searching a triangular array for a sub-triangle having minimum-sum.
+EasyMax Score: 100Success Rate: 43.89%
+Solve Challenge
+
+Project Euler #149: Searching for a maximum-sum subsequence.
+HardMax Score: 100Success Rate: 36.08%
+Solve Challenge
+
+Project Euler #148: Exploring Pascal's triangle.
+HardMax Score: 100Success Rate: 12.31%
+Solve Challenge
+
+Project Euler #147: Rectangles in cross-hatched grids
+HardMax Score: 100Success Rate: 17.82%
+Solve Challenge
+
+Project Euler #146: Investigating a Prime Pattern
+EasyMax Score: 100Success Rate: 11.64%
+Solve Challenge
+
+Project Euler #145: How many reversible numbers are there below one-billion?
+HardMax Score: 100Success Rate: 2.28%
+Solve Challenge
+
+Project Euler #144: Investigating multiple reflections of a laser beam.
+MediumMax Score: 100Success Rate: 31.58%
+Solve Challenge
+
+Project Euler #143: Investigating the Torricelli point of a triangle
+EasyMax Score: 100Success Rate: 45.24%
+Solve Challenge
+
+Project Euler #142: Perfect Square Collection
+EasyMax Score: 100Success Rate: 19.17%
+Solve Challenge
+
+Project Euler #141: Investigating progressive numbers, n, which are also square.
+HardMax Score: 100Success Rate: 24.44%
+Solve Challenge
+
+Project Euler #140: Modified Fibonacci golden nuggets
+EasyMax Score: 100Success Rate: 39.56%
+Solve Challenge
+
+Project Euler #139: Pythagorean tiles
+EasyMax Score: 100Success Rate: 25.00%
+Solve Challenge
+
+Project Euler #138: Special isosceles triangles
+EasyMax Score: 100Success Rate: 20.31%
+Solve Challenge
+
+Project Euler #137: Fibonacci golden nuggets
+EasyMax Score: 100Success Rate: 28.20%
+Solve Challenge
+
+Project Euler #136: Singleton difference
+HardMax Score: 100Success Rate: 23.03%
+Solve Challenge
+
+Project Euler #135: Same differences
+MediumMax Score: 100Success Rate: 58.33%
+Solve Challenge
+
+Project Euler #134: Prime pair connection
+MediumMax Score: 100Success Rate: 21.09%
+Solve Challenge
+
+Project Euler #133: Repunit nonfactors
+MediumMax Score: 100Success Rate: 29.55%
+Solve Challenge
+
+Project Euler #132: Large repunit factors
+AdvancedMax Score: 100Success Rate: 23.53%
+Solve Challenge
+
+Project Euler #131: Prime cube partnership
+HardMax Score: 100Success Rate: 13.75%
+Solve Challenge
+
+Project Euler #130: Composites with prime repunit property
+EasyMax Score: 100Success Rate: 23.16%
+Solve Challenge
+
+Project Euler #129: Repunit divisibility
+HardMax Score: 100Success Rate: 6.65%
+Solve Challenge
+
+Project Euler #128: Hexagonal tile differences
+HardMax Score: 100Success Rate: 22.59%
+Solve Challenge
+
+Project Euler #127: abc-hits
+AdvancedMax Score: 100Success Rate: 29.17%
+Solve Challenge
+
+Project Euler #126: Cuboid layers
+AdvancedMax Score: 100Success Rate: 24.79%
+Solve Challenge
+
+Project Euler #125: Palindromic sums
+EasyMax Score: 100Success Rate: 41.03%
+Solve Challenge
+
+Project Euler #124: Ordered radicals
+AdvancedMax Score: 100Success Rate: 20.95%
+Solve Challenge
+
+Project Euler #123: Prime square remainders
+EasyMax Score: 100Success Rate: 19.22%
+Solve Challenge
+
+Project Euler #122: Efficient exponentiation
+EasyMax Score: 100Success Rate: 69.19%
+Solve Challenge
+
+Project Euler #121: Disc game prize fund
+EasyMax Score: 100Success Rate: 46.88%
+Solve Challenge
+
+Project Euler #120: Square remainders
+EasyMax Score: 100Success Rate: 22.29%
+Solve Challenge
+
+Project Euler #119: Digit power sum
+EasyMax Score: 100Success Rate: 66.88%
+Solve Challenge
+
+Project Euler #118: Pandigital prime sets
+HardMax Score: 100Success Rate: 23.48%
+Solve Challenge
+
+Project Euler #117: Red, green, and blue tiles
+EasyMax Score: 100Success Rate: 44.89%
+Solve Challenge
+
+Project Euler #116: Red, green or blue tiles
+EasyMax Score: 100Success Rate: 38.54%
+Solve Challenge
+
+Project Euler #115: Counting block combinations II
+MediumMax Score: 100Success Rate: 27.95%
+Solve Challenge
+
+Project Euler #114: Counting block combinations I
+MediumMax Score: 100Success Rate: 51.34%
+Solve Challenge
+
+Project Euler #113: Non-bouncy numbers
+EasyMax Score: 100Success Rate: 54.73%
+Solve Challenge
+
+Project Euler #112: Bouncy numbers
+AdvancedMax Score: 100Success Rate: 8.56%
+Solve Challenge
+
+Project Euler #111: Primes with runs
+EasyMax Score: 100Success Rate: 49.69%
+Solve Challenge
+
+Project Euler #110: Diophantine reciprocals II
+EasyMax Score: 100Success Rate: 27.23%
+Solve Challenge
+
+Project Euler #109: Darts
+EasyMax Score: 100Success Rate: 26.67%
+Solve Challenge
+
+Project Euler #108: Diophantine reciprocals I
+EasyMax Score: 100Success Rate: 19.07%
+Solve Challenge
+
+Project Euler #107: Minimal network
+EasyMax Score: 100Success Rate: 84.36%
+Solve Challenge
+
+Project Euler #106: Special subset sums: meta-testing
+EasyMax Score: 100Success Rate: 36.00%
+Solve Challenge
+
+Project Euler #105: Special subset sums: testing
+EasyMax Score: 100Success Rate: 71.46%
+Solve Challenge
+
+Project Euler #104: Pandigital Fibonacci ends
+EasyMax Score: 100Success Rate: 64.43%
+Solve Challenge
+
+Project Euler #103: Special subset sums: optimum
+EasyMax Score: 100Success Rate: 55.04%
+Solve Challenge
+
+Project Euler #102: Triangle containment
+EasyMax Score: 100Success Rate: 70.94%
+Solve Challenge
+
+Project Euler #101: Optimum polynomial
+MediumMax Score: 100Success Rate: 34.75%
+Solve Challenge
+
+Project Euler #100: Arranged probability
+AdvancedMax Score: 100Success Rate: 15.73%
+Solve Challenge
+
+Project Euler #99: Largest exponential
+MediumMax Score: 100Success Rate: 72.68%
+Solve Challenge
+
+Project Euler #98: Anagramic squares
+EasyMax Score: 100Success Rate: 75.74%
+Solve Challenge
+
+Project Euler #97: Large non-Mersenne prime
+HardMax Score: 100Success Rate: 47.28%
+Solve Challenge
+
+Project Euler #96: Su Doku
+HardMax Score: 100Success Rate: 67.18%
+Solve Challenge
+
+Project Euler #95: Amicable chains
+MediumMax Score: 100Success Rate: 80.36%
+Solve Challenge
+
+Project Euler #94: Almost equilateral triangles
+MediumMax Score: 100Success Rate: 71.97%
+Solve Challenge
+
+Project Euler #93: Arithmetic expressions
+MediumMax Score: 100Success Rate: 73.42%
+Solve Challenge
+
+Project Euler #92: Square digit chains
+EasyMax Score: 100Success Rate: 49.10%
+Solve Challenge
+
+Project Euler #91: Right triangles with integer coordinates
+MediumMax Score: 100Success Rate: 73.05%
+Solve Challenge
+
+Project Euler #90: Cube digit pairs
+EasyMax Score: 100Success Rate: 36.04%
+Solve Challenge
+
+Project Euler #89: Roman numerals
+EasyMax Score: 100Success Rate: 87.66%
+Solve Challenge
+
+Project Euler #88: Product-sum numbers
+EasyMax Score: 100Success Rate: 75.87%
+Solve Challenge
+
+Project Euler #87: Prime power triples
+EasyMax Score: 100Success Rate: 73.56%
+Solve Challenge
+
+Project Euler #86: Cuboid route
+HardMax Score: 100Success Rate: 85.19%
+Solve Challenge
+
+Project Euler #85: Counting rectangles
+MediumMax Score: 100Success Rate: 83.06%
+Solve Challenge
+
+Project Euler #84: Monopoly odds
+HardMax Score: 100Success Rate: 39.78%
+Solve Challenge
+
+Project Euler #83: Path sum: four ways
+HardMax Score: 100Success Rate: 82.75%
+Solve Challenge
+
+Project Euler #82: Path sum: three ways
+EasyMax Score: 100Success Rate: 80.49%
+Solve Challenge
+
+Project Euler #81: Path sum: two ways
+EasyMax Score: 100Success Rate: 83.18%
+Solve Challenge
+
+Project Euler #80: Square root digital expansion
+EasyMax Score: 100Success Rate: 60.11%
+Solve Challenge
+
+Project Euler #79: Passcode derivation
+HardMax Score: 100Success Rate: 88.29%
+Solve Challenge
+
+Project Euler #78: Coin partitions
+MediumMax Score: 100Success Rate: 73.02%
+Solve Challenge
+
+Project Euler #77: Prime summations
+EasyMax Score: 100Success Rate: 84.42%
+Solve Challenge
+
+Project Euler #76: Counting summations
+EasyMax Score: 100Success Rate: 81.20%
+Solve Challenge
+
+Project Euler #75: Singular integer right triangles
+EasyMax Score: 100Success Rate: 81.31%
+Solve Challenge
+
+Project Euler #74: Digit factorial chains
+EasyMax Score: 100Success Rate: 71.35%
+Solve Challenge
+
+Project Euler #73: Counting fractions in a range
+EasyMax Score: 100Success Rate: 71.98%
+Solve Challenge
+
+Project Euler #72: Counting fractions
+EasyMax Score: 100Success Rate: 71.45%
+Solve Challenge
+
+Project Euler #71: Ordered fractions
+MediumMax Score: 100Success Rate: 74.63%
+Solve Challenge
+
+Project Euler #70: Totient permutation
+EasyMax Score: 100Success Rate: 79.73%
+Solve Challenge
+
+Project Euler #69: Totient maximum
+EasyMax Score: 100Success Rate: 74.71%
+Solve Challenge
+
+Project Euler #68: Magic N-gon ring
+HardMax Score: 100Success Rate: 89.60%
+Solve Challenge
+
+Project Euler #67: Maximum path sum II
+MediumMax Score: 100Success Rate: 80.47%
+Solve Challenge
+
+Project Euler #66: Diophantine equation
+HardMax Score: 100Success Rate: 69.35%
+Solve Challenge
+
+Project Euler #65: Convergents of e
+EasyMax Score: 100Success Rate: 81.77%
+Solve Challenge
+
+Project Euler #64: Odd period square roots
+EasyMax Score: 100Success Rate: 89.23%
+Solve Challenge
+
+Project Euler #63: Powerful digit counts
+EasyMax Score: 100Success Rate: 72.66%
+Solve Challenge
+
+Project Euler #62: Cubic permutations
+EasyMax Score: 100Success Rate: 81.56%
+Solve Challenge
+
+Project Euler #61: Cyclical figurate numbers
+EasyMax Score: 100Success Rate: 90.17%
+Solve Challenge
+
+Project Euler #60: Prime pair sets
+HardMax Score: 100Success Rate: 46.77%
+Solve Challenge
+
+Project Euler #59: XOR decryption
+EasyMax Score: 100Success Rate: 90.77%
+Solve Challenge
+
+Project Euler #58: Spiral primes
+EasyMax Score: 100Success Rate: 72.13%
+Solve Challenge
+
+Project Euler #57: Square root convergents
+EasyMax Score: 100Success Rate: 78.48%
+Solve Challenge
+
+Project Euler #56: Powerful digit sum
+EasyMax Score: 100Success Rate: 71.89%
+Solve Challenge
+
+Project Euler #55: Lychrel numbers
+EasyMax Score: 100Success Rate: 84.54%
+Solve Challenge
+
+Project Euler #54: Poker hands
+EasyMax Score: 100Success Rate: 78.38%
+Solve Challenge
+
+Project Euler #53: Combinatoric selections
+EasyMax Score: 100Success Rate: 80.03%
+Solve Challenge
+
+Project Euler #52: Permuted multiples
+EasyMax Score: 100Success Rate: 85.57%
+Solve Challenge
+
+Project Euler #51: Prime digit replacements
+AdvancedMax Score: 100Success Rate: 87.97%
+Solve Challenge
+
+Project Euler #50: Consecutive prime sum
+HardMax Score: 100Success Rate: 56.28%
+Solve Challenge
+
+Project Euler #49: Prime permutations
+HardMax Score: 100Success Rate: 85.85%
+Solve Challenge
+
+Project Euler #48: Self powers
+EasyMax Score: 100Success Rate: 54.04%
+Solve Challenge
+
+Project Euler #47: Distinct primes factors
+EasyMax Score: 100Success Rate: 84.11%
+Solve Challenge
+
+Project Euler #46: Goldbach's other conjecture
+EasyMax Score: 100Success Rate: 87.80%
+Solve Challenge
+
+Project Euler #45: Triangular, pentagonal, and hexagonal
+EasyMax Score: 100Success Rate: 82.33%
+Solve Challenge
+
+Project Euler #44: Pentagon numbers
+EasyMax Score: 100Success Rate: 83.67%
+Solve Challenge
+
+Project Euler #43: Sub-string divisibility
+EasyMax Score: 100Success Rate: 89.37%
+Solve Challenge
+
+Project Euler #42: Coded triangle numbers
+EasyMax Score: 100Success Rate: 85.37%
+Solve Challenge
+
+Project Euler #41: Pandigital prime
+EasyMax Score: 100Success Rate: 82.21%
+Solve Challenge
+
+Project Euler #40: Champernowne's constant
+MediumMax Score: 100Success Rate: 69.27%
+Solve Challenge
+
+Project Euler #39: Integer right triangles
+EasyMax Score: 100Success Rate: 76.44%
+Solve Challenge
+
+Project Euler #38: Pandigital multiples
+EasyMax Score: 100Success Rate: 92.69%
+Solve Challenge
+
+Project Euler #37: Truncatable primes
+EasyMax Score: 100Success Rate: 91.19%
+Solve Challenge
+
+Project Euler #36: Double-base palindromes
+EasyMax Score: 100Success Rate: 90.22%
+Solve Challenge
+
+Project Euler #35: Circular primes
+EasyMax Score: 100Success Rate: 84.44%
+Solve Challenge
+
+Project Euler #34: Digit factorials
+EasyMax Score: 100Success Rate: 92.26%
+Solve Challenge
+
+Project Euler #33: Digit canceling fractions
+HardMax Score: 100Success Rate: 80.77%
+Solve Challenge
+
+Project Euler #32: Pandigital products
+EasyMax Score: 100Success Rate: 92.88%
+Solve Challenge
+
+Project Euler #31: Coin sums
+EasyMax Score: 100Success Rate: 83.66%
+Solve Challenge
+
+Project Euler #30: Digit Nth powers
+EasyMax Score: 100Success Rate: 89.74%
+Solve Challenge
+
+Project Euler #29: Distinct powers
+EasyMax Score: 100Success Rate: 50.37%
+Solve Challenge
+
+Project Euler #28: Number spiral diagonals
+EasyMax Score: 100Success Rate: 76.80%
+Solve Challenge
+
+Project Euler #27: Quadratic primes
+EasyMax Score: 100Success Rate: 88.45%
+Solve Challenge
+
+Project Euler #26: Reciprocal cycles
+EasyMax Score: 100Success Rate: 80.40%
+Solve Challenge
+
+Project Euler #25: N-digit Fibonacci number
+EasyMax Score: 100Success Rate: 67.35%
+Solve Challenge
+
+Project Euler #24: Lexicographic permutations
+EasyMax Score: 100Success Rate: 87.54%
+Solve Challenge
+
+Project Euler #23: Non-abundant sums
+EasyMax Score: 100Success Rate: 85.19%
+Solve Challenge
+
+Project Euler #22: Names scores
+EasyMax Score: 100Success Rate: 92.71%
+Solve Challenge
+
+Project Euler #21: Amicable numbers
+EasyMax Score: 100Success Rate: 77.40%
+Solve Challenge
+
+Project Euler #20: Factorial digit sum
+EasyMax Score: 100Success Rate: 84.05%
+Solve Challenge
+
+Project Euler #19: Counting Sundays
+EasyMax Score: 100Success Rate: 76.98%
+Solve Challenge
+
+Project Euler #18: Maximum path sum I
+EasyMax Score: 100Success Rate: 86.02%
+Solve Challenge
+
+Project Euler #17: Number to Words
+EasyMax Score: 100Success Rate: 83.91%
+Solve Challenge
+
+Project Euler #16: Power digit sum
+EasyMax Score: 100Success Rate: 83.94%
+Solve Challenge
+
+Project Euler #15: Lattice paths
+EasyMax Score: 100Success Rate: 83.67%
+Solve Challenge
+
+Project Euler #14: Longest Collatz sequence
+EasyMax Score: 100Success Rate: 61.33%
+Solve Challenge
+
+Project Euler #13: Large sum
+EasyMax Score: 100Success Rate: 96.55%
+Solve Challenge
+
+Project Euler #12: Highly divisible triangular number
+EasyMax Score: 100Success Rate: 66.10%
+Solve Challenge
+
+Project Euler #11: Largest product in a grid
+EasyMax Score: 100Success Rate: 89.08%
+Solve Challenge
+
+Project Euler #10: Summation of primes
+MediumMax Score: 100Success Rate: 66.29%
+Solve Challenge
+
+Project Euler #9: Special Pythagorean triplet
+EasyMax Score: 100Success Rate: 73.87%
+Solve Challenge
+
+Project Euler #8: Largest product in a series
+EasyMax Score: 100Success Rate: 93.70%
+Solve Challenge
+
+Project Euler #7: 10001st prime
+EasyMax Score: 100Success Rate: 77.51%
+Solve Challenge
+
+Project Euler #6: Sum square difference
+EasyMax Score: 100Success Rate: 91.99%
+Solve Challenge
+
+Project Euler #5: Smallest multiple
+MediumMax Score: 100Success Rate: 94.86%
+Solve Challenge
+
+Project Euler #4: Largest palindrome product
+MediumMax Score: 100Success Rate: 88.00%
+Solve Challenge
+
+Project Euler #3: Largest prime factor
+EasyMax Score: 100Success Rate: 64.24%
+Solve Challenge
+
+Project Euler #2: Even Fibonacci numbers
+EasyMax Score: 100Success Rate: 83.67%
+Solve Challenge
+
+Project Euler #1: Multiples of 3 and 5
+EasyMax Score: 100Success Rate: 56.51%
+Try Again
+
