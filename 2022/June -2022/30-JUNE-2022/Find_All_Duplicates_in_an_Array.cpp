@@ -7,7 +7,7 @@ public:
         for(int i=0;i<n;i++){
             //Trace to know why there is %n
             //%n because any element can be atmost 2 times
-            //If any element can appear any time than we have to do "arr[a[i]-(n*(a[i]/n))]+=n"
+            //If any element can appear any time than we have to do "nums[nums[i]-(nums*(nums[i]/n))]+=n"
             nums[nums[i]%n]+=n;
         }
         
