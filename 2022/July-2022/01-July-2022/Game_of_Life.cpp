@@ -6,6 +6,7 @@ public:
         
         for(int k=0;k<8;k++){
             int di=dxy[k];
+            int dj=dxy[k+1];
             if((i+di)>=0 && (j+dj)>=0 && (i+di)<n && (j+dj)<m && board[i+di][j+dj]>=1) cnt++;
         }
         return cnt;
